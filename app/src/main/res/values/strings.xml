@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lista_telefones</string>
+    <string name="btnSalvar">Salvar dados</string>
+    <string name="date">Data de Nascimento</string>
+    <string name="numberPhone">Telefone</string>
+    <string name="textName">Nome</string>
 </resources>

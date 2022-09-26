@@ -1,4 +1,4 @@
-package com.example.lista_telefone;
+package com.example.lista_telefones;
 
 import androidx.appcompat.app.AppCompatActivity;
 
